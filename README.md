@@ -12,7 +12,7 @@ A modern and feature-rich e-commerce application built using **Flutter** for the
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="./assets/screenshots/2-Authزحىل" width="200" alt="Login Screen">
+  <img src="./assets/screenshots/2-Auth.png" width="200" alt="Login Screen">
   <img src="./assets/screenshots/3-home.png" width="200" alt="Verification Screen">
   <img src="./assets/screenshots/4-add item.png" width="200" alt="Home Screen">
   <img src="./assets/screenshots/5-add item.png" width="200" alt="Items Screen">
